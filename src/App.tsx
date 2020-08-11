@@ -1,7 +1,8 @@
 import React from 'react';
+import Navbar from './components/Navbar'
 
 const App: React.FC = () => (
-  <h1>Hello Algoritmus</h1>
+  <Navbar />
 );
 
 export default App;

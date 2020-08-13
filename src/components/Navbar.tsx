@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Navbar: React.FC = () => (
-    <nav>
+    <nav className="blue darken-2">
         <div className="nav-wrapper container">
             <a href="/" className="brand-logo">
                 Logo
